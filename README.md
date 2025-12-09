@@ -41,6 +41,14 @@ I'm a Computer Engineering student at the National University of Rafaela and a p
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Huawei Cloud](https://img.shields.io/badge/Huawei_Cloud-FF0000?style=for-the-badge&logo=huawei&logoColor=white)
 
+---
+
+## 🏆 Certifications & Achievements
+
+- **Second Prize – Huawei ICT Competition** (Cloud Track, 2024–2025)  
+- **AWS Academy Graduate – Cloud Architecting** (Jan. 2025)  
+- **AWS Academy Graduate – Machine Learning for NLP** (Oct. 2024)  
+- **AWS Academy Graduate – Cloud Foundations** (Sept. 2024)  
 
 ---
 
