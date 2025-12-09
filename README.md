@@ -4,12 +4,25 @@ I'm a Computer Engineering student at the National University of Rafaela and a p
 
 ---
 
-## 🛠 Skills
+## 🛠 Skills & Technologies
 
-- **Languages:** C, C++, C#, Java, JavaScript, TypeScript, Kotlin, Python, Rust, HTML/CSS  
-- **Frameworks / Libraries:** React, Django, Encore, Win32, Android, Jetpack Compose  
-- **Tools:** Git, Docker, MySQL, PostgreSQL, Visual Studio, Visual Studio Code, Sublime Text  
-- **Areas of Interest:** Software development, data engineering, machine learning, cross-platform development, code optimization, UX/UI design  
+- **Programming Languages:**  
+  C, C++, C#, Java, JavaScript, TypeScript, Kotlin, Python, Rust, HTML/CSS  
+
+- **Frameworks, Libraries & Engines:**  
+  React, Django, Encore, Win32, Android, Jetpack Compose, .NET, Unity, AdonisJS  
+
+- **Databases & Data Tools:**  
+  MySQL, PostgreSQL, basic knowledge of data pipelines and data engineering concepts  
+
+- **DevOps & Tools:**  
+  Git, Docker, Visual Studio, Visual Studio Code, CI/CD basics  
+
+- **Areas of Interest:**  
+  Software development, cross-platform development, web and mobile apps, machine learning, data engineering, code optimization, UX/UI design, cybersecurity, game development  
+
+- **Other Interests / Side Skills:**  
+  Algorithm design, problem-solving, logic puzzles, system architecture, exploring new programming paradigms and emerging technologies
 
 ---
 
